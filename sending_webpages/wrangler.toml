@@ -1,0 +1,6 @@
+name = "sending_webpages"
+type = "javascript"
+account_id = "a65e06f19e06d6a0f89f91300c32890d"
+workers_dev = true
+route = ""
+zone_id = ""
